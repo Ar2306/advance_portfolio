@@ -1,6 +1,6 @@
-# 🚀 React + TypeScript + Tailwind CSS + Vite Starter
+# 💼 Personal Portfolio – React + TypeScript + Tailwind CSS + Vite
 
-This is a modern frontend starter template using **React**, **TypeScript**, **Tailwind CSS**, and **Vite**. It's optimized for speed, scalability, and developer experience.
+This is a modern, fast, and responsive **personal portfolio website** built using **React**, **TypeScript**, **Tailwind CSS**, and **Vite**. It showcases my work, skills, projects, and contact information – all in one place.
 
 ---
 
